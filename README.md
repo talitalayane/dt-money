@@ -4,8 +4,8 @@ Para iniciar a simulação do back end
 
 Para iniciar o projeto 
 
-  npm run dev
+      npm run dev
 
-**Conceitos importantes desse projeto:
+*Conceitos importantes desse projeto:
   - componentização
   - hooks ( useContext, useState, UseEffect, UseMeno, UseCallback)# dt-money
